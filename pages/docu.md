@@ -7,14 +7,12 @@ title: Documentation
 -   [JFlex User's Manual](manual.html)   [[html]](manual.html)  
     [[pdf]](manual.pdf)
     
--   Usage information for the [JFlex maven
-    plugin](http://jflex.sourceforge.net/jflex-maven-plugin/).
+-   Usage information for the [JFlex maven plugin][jflex-maven-plugin-site].
     
 -   Usage information for the [JFlex Ant Task](jflex_anttask.html) (by
     Rafal Mantiuk).
     
--   A list of [external JFlex
-    grammars](https://github.com/jflex-de/jflex/wiki/External-JFlex-Grammars)
+-   A list of [external JFlex grammars][wiki-external-grammars]
     that other projects have created.
     
 -   Syntax highlighting for JFlex in [Vim](vim.html) and
@@ -53,3 +51,7 @@ title: Documentation
 -   The [Change Log](changelog.html) of JFlex
     
 -   Information about [Copying & License](copying.html)
+
+[jflex-maven-plugin-site]: http://jflex-de.github.io/jflex-web/maven-site/jflex-maven-plugin/index.html
+[wiki-external-grammars]: https://github.com/jflex-de/jflex/wiki/External-JFlex-Grammars
+
